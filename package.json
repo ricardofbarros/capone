@@ -1,0 +1,29 @@
+{
+  "name": "capone",
+  "version": "0.0.0",
+  "description": "Build complex command-line interfaces easily",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardofbarros/capone.git"
+  },
+  "keywords": [
+    "cli",
+    "command",
+    "terminal",
+    "shell",
+    "prompt"
+  ],
+  "author": {
+    "name": "Ricardo Barros",
+    "email": "ricardofbarros@hotmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardofbarros/capone/issues"
+  },
+  "engines": {
+    "node": ">=0.10.30"
+  },  
+  "homepage": "https://github.com/ricardofbarros/capone"
+}
